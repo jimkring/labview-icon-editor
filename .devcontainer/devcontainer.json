@@ -1,0 +1,7 @@
+{
+    "image": "ghcr.io/vipm-io/actions-runner-labview-2024-linux:dev",
+    "remoteUser": "labview",
+    "remoteEnv": {
+        "USER": "labview"
+    }
+}
